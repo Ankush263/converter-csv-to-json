@@ -11,6 +11,7 @@
 	 "convertercsvtojson",
 	 "csv2json"
   ],
-  "author": "",
+  "homepage": "https://github.com/nibhatt9/converter-csv-to-json",
+  "author": "nibhatt9",
   "license": "ISC"
 }
