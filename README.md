@@ -18,7 +18,7 @@ async function convertToJson(){
 	"delimiter": ","
 	});
 
-	console.log(josnData);
+	console.log(jsonData);
 }
 
 // Result
